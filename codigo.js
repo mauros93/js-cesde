@@ -46,3 +46,5 @@ let precioTorta = 30000;
 let domicilio = 7800;
 let precioTotal = domicilio + precioTorta - descuento;
 alert ("Haz comprado una torta mediana y el precio total con el domicilio es " + precioTotal);
+
+alert("ve al final de la pagina para saber que es jQuery y en que se diferencia con JavaScript")
