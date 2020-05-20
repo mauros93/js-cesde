@@ -4,7 +4,7 @@ let telefono = prompt('ingresa tu telefono');
 let nAbonos = prompt('ingresa el numero de abonos que deseas');
 let tribuna = prompt('ingresa la tribuna \n ingresa 1 si deseas elegir Sur-Norte \n ingresa 2 si deseas elegir Oriental \n ingresa 3 si deseas elegir Occidental ');
 
-let sur_norte = 144.000;
+let sur_norte = 144000;
 let oriental = 215000;
 let occidental = 444000;
 
